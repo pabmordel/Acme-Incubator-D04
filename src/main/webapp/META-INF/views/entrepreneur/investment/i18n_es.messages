@@ -1,0 +1,15 @@
+entrepreneur.investment.list.label.title = Título
+entrepreneur.investment.list.label.creationdate = Fecha de creación
+entrepreneur.investment.list.label.kind = Tipo
+entrepreneur.investment.list.label.amount = Cantidad
+
+entrepreneur.investment.form.label.ticket = Ticket:
+entrepreneur.investment.form.label.title = Título:
+entrepreneur.investment.form.label.creationdate = Fecha de creación:
+entrepreneur.investment.form.label.kind = Tipo:
+entrepreneur.investment.form.label.amount = Cantidad:
+entrepreneur.investment.form.label.description =  Descripción:
+entrepreneur.investment.form.label.link =  Información Adicional:
+entrepreneur.investment.form.label.programme =  Programa de trabajo
+
+entrepreneur.investment.form.button.return = Volver

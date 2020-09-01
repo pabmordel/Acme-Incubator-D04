@@ -1,0 +1,14 @@
+entrepreneur.application.list.label.offer = Offer
+entrepreneur.application.list.label.creationdate = Creation date
+entrepreneur.application.list.label.investment = Investment Round
+
+entrepreneur.application.form.label.investment = Investment Round:
+entrepreneur.application.form.label.ticket = Ticket:
+entrepreneur.application.form.label.creationdate = Creation date:
+entrepreneur.application.form.label.statement = Statement:
+entrepreneur.application.form.label.offer = Offer:
+entrepreneur.application.form.label.investor = Investor:
+
+
+
+entrepreneur.application.form.button.return = Return
